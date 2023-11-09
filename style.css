@@ -39,23 +39,7 @@
   overflow: hidden;
   
 }
-.sild
-{
-  width: 2912px;
-  -webkit-animation: slide 18s ease infinite;
-}
-.slide {
-  float: left;
-  width: 728px;
-  height: 510px;
-}
-@-webkit-keyframes slide {
-  20% {margin-left: 0px;}
- 
-  50% {margin-left: -1000px;}
- 
-  70% {margin-left: -1456px;}
-}
+
 
 .header a {
   text-decoration: none;
